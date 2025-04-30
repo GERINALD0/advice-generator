@@ -36,5 +36,6 @@ Acesse a pasta do projeto:
     Adicionar botão para compartilhar o conselho em redes sociais.
 
 🧑‍💻 Autor
+
 Feito com 💙 por Gerinaldo Cruz
 GitHub - @GERINALD0
