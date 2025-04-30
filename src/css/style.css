@@ -1,0 +1,56 @@
+.main {
+   width: 100%;
+   padding: 1.6rem;
+   height: 100dvh;
+   background-color: var(--dark-blue);
+   
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.advice-container {
+   max-width: 50rem;
+   /* min-width: 375px; */
+   background-color: var(--medium-blue);
+   text-align: center;
+   padding: 2.4rem;
+   border-radius: 1rem;
+
+   display: flex;
+   flex-direction: column;
+   gap: 3rem;
+
+   & h1 {
+      font-size: 1.2rem;
+      color: var(--primary-green);
+      text-transform: uppercase;
+      font-weight: 300;
+      letter-spacing: .4rem;
+   }
+
+   & p {
+      font-size: 2rem;
+      font-weight: 800;
+      width: 31rem;
+      align-self: center;
+   }
+}
+
+.btn {
+   width: 5rem;
+   display: block;
+   margin-top: -3.6rem;
+   background-color: var(--primary-green);
+   padding: 1.2rem;
+   border-radius: 50%;
+   border: none;
+   cursor: pointer;
+   transform: translateY(5rem);
+   align-self: center;
+
+   &:hover {
+      box-shadow: 0 0 3rem var(--primary-green);
+   }
+}
+

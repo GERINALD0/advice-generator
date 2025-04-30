@@ -1,0 +1,11 @@
+:root {
+ 
+--primary-blue : rgb(206, 227, 233);
+--primary-green: rgb(82, 255, 168);
+
+--ligth-blue: rgb(78, 93, 115);
+--medium-blue: rgb(50, 58, 73);
+--dark-blue: rgb(31, 38, 50);
+
+--white: white;
+}
