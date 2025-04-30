@@ -3,7 +3,7 @@
 Este é um aplicativo simples e estiloso que gera conselhos aleatórios com apenas um clique. Ideal para quem quer um toque de sabedoria no meio do dia.  
 
 🔗 Acesse o projeto  
-🔮 Clique aqui para ver o app funcionando
+🔮 Clique aqui para ver o app funcionando: https://gerinald0.github.io/advice-generator/
 
 ✨ Funcionalidades
 
