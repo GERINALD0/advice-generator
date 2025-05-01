@@ -11,10 +11,6 @@ Este é um aplicativo simples e estiloso que gera conselhos aleatórios com apen
 - Layout moderno e responsivo.
 - Animações suaves e interface intuitiva.
 
-🖼️ Preview
-
-![Preview do App](./assets/preview.png)
-
 🛠️ Tecnologias utilizadas
 
 - HTML5
